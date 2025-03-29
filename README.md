@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [@lllJinxlll] (https://github.com/lllJinxlll)
+- **Aluno:** Luis Felipe Alves - Perfil do Github [@lllJinxlll] (https://github.com/lllJinxlll)
